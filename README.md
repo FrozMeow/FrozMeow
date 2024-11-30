@@ -34,10 +34,3 @@ Here are some of the tools I’m working with or exploring:
 Thanks for stopping by! Feel free to connect, share ideas, or recommend cool projects for me to check out. 😊
 ```
 
-### How to Customize
-
-1. Replace `<Your Name>` and `<Your GitHub Username>` with your information.
-2. Add your contact details (like email or social media handles) if you’d like people to connect with you.
-3. Feel free to expand the "What I Want to Build" section with specific ideas you have.
-
-Once you save this, it will appear as your GitHub profile README!
